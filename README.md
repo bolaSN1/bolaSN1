@@ -19,4 +19,3 @@ https://www.linkedin.com/in/bolanleoso
 - 🌱 I’m currently building ServiceNow projects in my PDI
 - 💬 Ask me anything about ServiceNow
 - 😄 Pronouns: she/her
--->
