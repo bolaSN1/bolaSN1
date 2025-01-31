@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Bola</h1>
 
-<h2>👨‍💻 ServiceNow Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Go to Serving App</b>
   - [Goto Servicing and repairs application](https://github.com/bolaSN1/Goto_servicing_application)
@@ -15,7 +15,7 @@
 
 https://www.linkedin.com/in/bolanleoso
 
-- 🔭 I currently have HRSD , ITSM, CAD, CSA modules certifications
-- 🌱 I’m currently building ServiceNow projects in my PDI
-- 💬 Ask me anything about ServiceNow
+- 🔭 I am Certified in HRSD , ITSM, CAD, CSA ServiceNow modules
+- 🌱 Building ServiceNow projects in my ServiceNow PDI
+- 💬 Ask me anything about ServiceNow & QA
 - 😄 Pronouns: she/her
